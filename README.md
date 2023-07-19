@@ -55,3 +55,7 @@ Let's discuss your blockchain project! Reach out to us at:
 
 ![2X Solution's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2xsolution&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2xsolution&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![2X Solution's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=2xsolution&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
